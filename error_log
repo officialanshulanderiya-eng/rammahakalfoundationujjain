@@ -1,0 +1,68 @@
+[22-Aug-2023 05:35:34 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/gv3ysob7f009/public_html/courses.php on line 42
+[22-Aug-2023 05:35:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gv3ysob7f009/public_html/courses.php on line 42
+[22-Aug-2023 05:35:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/gv3ysob7f009/public_html/courses.php on line 106
+[22-Aug-2023 05:35:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gv3ysob7f009/public_html/courses.php:42) in /home/gv3ysob7f009/public_html/courses.php on line 110
+[22-Aug-2023 05:36:08 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/gv3ysob7f009/public_html/courses.php on line 32
+[22-Aug-2023 05:36:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gv3ysob7f009/public_html/courses.php on line 32
+[22-Aug-2023 05:36:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/gv3ysob7f009/public_html/courses.php on line 96
+[22-Aug-2023 05:36:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gv3ysob7f009/public_html/courses.php:32) in /home/gv3ysob7f009/public_html/courses.php on line 100
+[22-Aug-2023 05:40:01 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/gv3ysob7f009/public_html/courses.php on line 32
+[22-Aug-2023 05:40:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/gv3ysob7f009/public_html/courses.php on line 32
+[22-Aug-2023 05:40:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/gv3ysob7f009/public_html/courses.php on line 96
+[22-Aug-2023 05:40:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gv3ysob7f009/public_html/courses.php:32) in /home/gv3ysob7f009/public_html/courses.php on line 100
+[22-Aug-2023 05:40:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/gv3ysob7f009/public_html/courses.php on line 96
+[22-Aug-2023 05:40:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gv3ysob7f009/public_html/courses.php:1) in /home/gv3ysob7f009/public_html/courses.php on line 100
+[22-Aug-2023 08:40:16 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[22-Aug-2023 08:40:34 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[22-Aug-2023 08:40:47 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[22-Aug-2023 08:41:51 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[22-Aug-2023 12:32:50 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[22-Aug-2023 12:43:02 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[23-Aug-2023 08:51:20 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[23-Aug-2023 08:51:28 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[23-Aug-2023 08:52:01 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[23-Aug-2023 15:04:29 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[23-Aug-2023 15:05:02 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 02:17:23 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 07:35:59 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 08:04:22 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 08:35:00 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 08:40:05 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 08:44:50 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 08:47:52 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 08:50:58 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 08:53:40 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 09:00:59 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 09:01:02 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[24-Aug-2023 09:01:33 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 70
+[25-Aug-2023 11:38:09 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 95
+[25-Aug-2023 11:38:56 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 95
+[25-Aug-2023 11:56:42 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 95
+[25-Aug-2023 11:56:53 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 95
+[25-Aug-2023 11:57:46 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[25-Aug-2023 12:01:06 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[25-Aug-2023 12:01:31 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[25-Aug-2023 12:03:37 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[25-Aug-2023 12:03:41 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[25-Aug-2023 12:04:23 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[26-Aug-2023 10:38:40 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[26-Aug-2023 10:39:39 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[26-Aug-2023 10:39:40 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[26-Aug-2023 14:11:29 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[26-Aug-2023 16:01:19 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[28-Aug-2023 05:30:06 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[28-Aug-2023 10:49:26 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[28-Aug-2023 17:23:38 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[29-Aug-2023 12:57:37 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[29-Aug-2023 12:58:02 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 92
+[29-Aug-2023 13:02:08 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:02:51 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:04:46 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:13:47 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:15:21 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:15:53 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:15:55 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:17:25 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:17:27 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:46:17 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
+[29-Aug-2023 13:47:11 UTC] PHP Warning:  Undefined variable $targetFile in /home/gv3ysob7f009/public_html/userprofile.php on line 64
